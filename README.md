@@ -1,6 +1,6 @@
 # Fundraising_analysis
+[photo](sources/pic.png)
 
-![photo](sources/pic.png)
 ## Overview of Project
 
 ### Purpose
